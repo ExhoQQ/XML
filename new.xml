@@ -1,0 +1,12 @@
+<Topic>
+	<MyFavorite>
+		<Film>Harry Potter</Film>
+		<Series>Breaking Bad</Series>
+		<Season>Autumn</Season>
+		<Countries>
+			 <First>Japan</First>
+			<Second>USA</Second>
+			<Third>Australia</Third>
+		</Countries>
+	</MyFavorite>
+</Topic>
