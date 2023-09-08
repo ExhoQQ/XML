@@ -1,8 +1,11 @@
 <Bug1>  
-  <Title>Будучи не авторизованным на форуме, во вкладке 'Новые сообщения профилей' не работает пагинация</Title>
-  <Environment>Google Chrome Версия 115.0.5790.171</Environment>
-  <Precondition>Открыть вкладку 'Новые сообщения профилей' на форуме. Пример (https://forum.gta5rp.com/whats-new/profile-posts/1579255/)</Precondition>
-  <STR>Нажать на пагинацию, по вышеупомянутой ссылке.</STR>
-  <AR>Некликабельная пагинация.</AR>
-  <ER>Кликабельная пагинация.</ER>
+  <Title>Pagination does not work in the 'New Profile Posts' tab</Title>
+  <Environment>Google Chrome Version 115.0.5790.171</Environment>
+  <Precondition>
+    1. Open the 'New Profile Posts' tab on the forum. 
+    2. Unauthorize from the forum
+    Example (https://forum.gta5rp.com/whats-new/profile-posts/1579255/)</Precondition>
+  <STR>Click on pagination, at the above link.</STR>
+  <AR>Non-clickable pagination.</AR>
+  <ER>Clickable pagination.</ER>
 </Bug1>
